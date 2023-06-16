@@ -5,7 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-f48020?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/Max__F/)
 
 ---
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxFdev)](https://github.com/MaxFdev/github-readme-stats)
+<!--[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxFdev)](https://github.com/MaxFdev/github-readme-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFdev)](https://github.com/MaxFdev/github-readme-stats)
 
