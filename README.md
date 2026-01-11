@@ -8,18 +8,16 @@
 
 <hr/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MaxFdev&theme=juicyfresh&no-frame=true&no-bg=true&column=7&rank=-C,-?" alt="Trophies"/>
-
-<hr/>
-
 <!-- TODO switch to self hosted versions of stats -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=MaxFdev&theme=juicyfresh&no-frame=true&no-bg=true&column=7&rank=-C,-?" alt="Trophies"/> -->
+
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaxFdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxFdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165"/>
-</div>
+</div> -->
 
-<img src="https://streak-stats.demolab.com?user=MaxFdev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/> -->
+<!-- <img src="https://streak-stats.demolab.com?user=MaxFdev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/> -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxFdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Activity Graph"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaxFdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Activity Graph"/> -->
 
 </div>
