@@ -6,7 +6,7 @@
 <a href="https://www.maxfdev.com/"><img src="https://img.shields.io/badge/maxfdev.com-40c060?style=flat&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="mailto:maxfranklin@maxfdev.com"><img src="https://img.shields.io/badge/Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<hr/>
+<!-- <hr/> -->
 
 <!-- TODO switch to self hosted versions of stats -->
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=MaxFdev&theme=juicyfresh&no-frame=true&no-bg=true&column=7&rank=-C,-?" alt="Trophies"/> -->
